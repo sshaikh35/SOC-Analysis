@@ -1,8 +1,6 @@
 # 📧 Email Header Analysis - SOC Hands-On Case
 
 🔐 **File:** `Challenge+Mail.zip`  
-📁 **Location:** `C:\Users\LetsDefend\Desktop\Files\Challenge+Mail.zip`  
-🗝️ **Password:** `infected`  
 📅 **Date of Analysis:** July 8, 2025
 
 ---
