@@ -15,7 +15,7 @@
 
 ## 🚨 Summary
 
-A scheduled task was created on host `Helena`. Upon analysis, the task was found to execute a **malicious Python file**, identified by its hash `65d880c7f474720dafb84c1e93c51e11`, which is linked to Trojan activity. The file beaconed to the known **Command & Control (C2) IP address** `92.27.116.104`.
+In this case, I investigated a critical alert triggered by a scheduled task creation on a host named Helena. The suspicious process svohost.exe was launched via a scheduled task and was traced back to a trojan malware communicating with a Command & Control (C2) server at 92.27.116.104.
 
 ---
 
