@@ -1,4 +1,4 @@
-# 🧠 SOC Analyst Case Report — Case 4
+# 🧠 SOC Analyst Case Report [Case 4]
 
 ## 🛡️ Alert Details
 
